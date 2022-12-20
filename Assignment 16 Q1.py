@@ -2,7 +2,7 @@
 """
 Created on Thu Dec 01 10:23:26 2022
 
-@author: LENOVO
+@author: SANJUSHA
 """
 
 # Method 1
